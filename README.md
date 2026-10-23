@@ -21,10 +21,10 @@ Revenue: about ₹2.52M from 690 orders, roughly ₹3,650 per order.
 Top product: Agnijith 90 gms brings in about half of revenue, and the wider Agnijith range around 80%.
 Seasonality: orders peak in May and June and are lowest in September and October.
 Busiest month: May 2026 had 83 orders, more than double any other month.
-Highest revenue month: October 2025 (about ₹210k), mostly from one ₹154k Singapore order.
+Highest revenue month: October 2025 (about ₹210k)
 Payments: Razorpay accounts for 99.48% of revenue, cash on delivery for 0.52%.
 International sales: USD orders (about $13K) make up close to 46% of revenue.
-Guest checkout: 0.49% of orders are placed by guests
+Guest checkout: 49.28% of orders are placed by guests
 
 # Author
 Honey Binoy
