@@ -27,26 +27,23 @@ International sales: USD orders (about $13K) make up close to 46% of revenue.
 Guest checkout: 49.28% of orders are placed by guests
 
 # Padanjaly_Location_dashboard
-A data cleaning and analysis project built on the WooCommerce orders of Jagadha by Padanjaly, an Ayurvedic products business. The raw order export was cleaned in Power Query and analysed in a two-page Power BI report:
-Sales Performance Dashboard: revenue, orders, products, payments and trends over time.
-Location Analysis Dashboard: sales and customer behaviour by country, state and city.
+# Dashboard visuals
+Location Analysis dashboard includes
+Total revenue by billing country (map)
+Shipping vs billing city (donut)
+Total orders by billing city (India)
+Total revenue by billing state (India)
+Total units sold by billing state (India)
+India vs International by order (pie)
+Cards: Repeat Registered Customer %, Same City %, Countries Served
 
-# Visuals and KPI cards
-Visual or card	What it shows
-Revenue by billing country (filled map)	Which countries bring in revenue, shaded by amount
-Billing city vs shipping city (donut)	How many orders ship to the billing city
-Repeat customers by city	Which cities have customers who order again
-Total orders by billing city	The cities with the most orders
-Total units sold by billing state	Which states buy the most units
-Cards: Countries Served, Same City %, Repeat Customers, Repeat Orders	Headline numbers linked to the visuals
-
-# Location insights
-Orders come from 24 countries, with India the darkest on the map.
-98.84% of orders (682 of 690) ship to the billing city, and only 8 go to a different city.
-21 repeat customers placed 48 orders, about 2.3 orders each. Hyderabad and Noida have the most repeat customers (3 each).
-Bengaluru has the most orders (57), followed by Hyderabad (33), Thiruvananthapuram (28), Chennai (25), Mumbai (22) and Pune (17).
-Order volume does not equal loyalty: Bengaluru has the most orders but only 2 repeat customers.
-Tamil Nadu leads the units sold chart with about 100 units, more than double Telangana.
+# Key results (Location Analysis)
+Orders: 690 in total. India has 609 orders (88.26%) and international customers have 81 (11.74%). Customers are in 24 countries.
+Top states by revenue: Kerala (about 0.36M), then Maharashtra and Tamil Nadu (about 0.17M each), Telangana (0.16M) and Karnataka (0.15M). Revenue drops sharply after the top five.
+Lower-revenue states: Gujarat (0.06M), then Punjab, Andhra Pradesh, Delhi and Haryana (about 0.04M each).
+Top cities by orders: Bengaluru (57), Hyderabad (33), Thiruvananthapuram (28), Thrissur (27) and Chennai (25).
+Billing vs shipping: 98.84% of orders (682) have matching billing and shipping cities.
+Customer loyalty: 6.50% of registered customers placed repeat orders
 
 # Author
 Honey Binoy
