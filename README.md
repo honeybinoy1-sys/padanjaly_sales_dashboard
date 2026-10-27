@@ -45,5 +45,35 @@ Top cities by orders: Bengaluru (57), Hyderabad (33), Thiruvananthapuram (28), T
 Billing vs shipping: 98.84% of orders (682) have matching billing and shipping cities.
 Customer loyalty: 6.50% of registered customers placed repeat orders
 
+# product_performance_dashboard
+# Project Overview
+This project analyzes product-wise sales, revenue, and quantity sold to
+identify top- and low-performing products and highlight product trends
+that can support business decisions.
+Dashboard KPIs
+- Total Products: 11
+- Total Quantity Sold: 1.08K units
+- Top Product by Quantity Sold: Agnijith 90 gms
+- Top Product by Revenue: Agnijith 90 gms
+
+ # Dashboard 
+ # Key Findings
+- Agnijith 90 gms is the leading product, generating approximately
+  ₹1.24M in revenue and selling 508 units out of approximately 1,080
+  units.
+- Agnihari 90gms ranks second in quantity sold with 252 units, but
+  sixth in revenue.
+- Kasmeerini 10ml and Kadambini 100ml rank third and fourth in
+  quantity sold, respectively, while each generates approximately
+  ₹0.04M in revenue.
+- Agnihari 5 Pack and Agnihari 10 Pack generate approximately
+  ₹0.02M each, selling 5 and 1 units respectively.
+- The Combo Pack sells 41 units and generates approximately
+  ₹0.07M.
+- Monthly quantity sold peaks in May and reaches its lowest point in
+  October.
+- Agnihari 90gms, Kasmeerini 10ml, and the Combo Pack have more
+  of their sales in India.
+
 # Author
 Honey Binoy
