@@ -75,5 +75,29 @@ Dashboard KPIs
 - Agnihari 90gms, Kasmeerini 10ml, and the Combo Pack have more
   of their sales in India.
 
+# Customer Analysis Dashboard 
+
+# Project Overview
+This project analyses customer purchase behaviour using Power BI to understand customer types, order patterns, product spending, and monthly order trends. The dashboard helps identify repeat purchasing patterns and potential customer retention opportunities using dataset-based insights.
+
+# Objectives
+Analyse registered customers and guest orders.
+Compare registered orders with guest orders.
+Identify one-time and repeat registered customers.
+Analyse product-wise spending.
+Track monthly and yearly order trends.
+
+# Dashboard KPIs
+Registered Customers: 323
+Repeat Registered Customers: 21
+Guest Order Percentage: 49.28%
+
+# Key Insights
+The dataset contains 323 registered customers: 302 one-time customers and 21 repeat customers.
+Registered orders account for 350 orders (50.72%), while guest orders account for 340 orders (49.28%).
+Kerala recorded the highest order volume among the displayed states, with 235 orders.
+Agnijith 90 gms is the highest-spending product shown, at approximately 1.24M in the dashboard's displayed units.
+May 2026 recorded the highest monthly order volume in the displayed period, with 83 orders.
+
 # Author
 Honey Binoy
