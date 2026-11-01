@@ -31,9 +31,9 @@ Guest checkout: 49.28% of orders are placed by guests
 Location Analysis dashboard includes
 Total revenue by billing country (map)
 Shipping vs billing city (donut)
-Total orders by billing city (India)
-Total revenue by billing state (India)
-Total units sold by billing state (India)
+Total orders by billing city 
+Total revenue by billing state 
+Total quantity sold by billing state 
 India vs International by order (pie)
 Cards: Repeat Registered Customer %, Same City %, Countries Served
 
